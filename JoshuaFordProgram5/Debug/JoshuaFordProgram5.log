@@ -1,0 +1,28 @@
+﻿Build started 4/17/2016 7:39:57 PM.
+     1>Project "C:\Users\Joshua\Documents\Visual Studio 2013\Projects\JoshuaFordProgram5\JoshuaFordProgram5\JoshuaFordProgram5.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         W:\Joshua\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Anchor.cpp Button.cpp Header.cpp IElement.cpp Main.cpp Paragraph.cpp Textbox.cpp WebCreator.cpp
+         WebCreator.cpp
+         Textbox.cpp
+         Paragraph.cpp
+         Main.cpp
+         IElement.cpp
+         Header.cpp
+         Button.cpp
+         Anchor.cpp
+         Generating Code...
+       Link:
+         W:\Joshua\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Joshua\Documents\Visual Studio 2013\Projects\JoshuaFordProgram5\Debug\JoshuaFordProg5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Joshua\Documents\Visual Studio 2013\Projects\JoshuaFordProgram5\Debug\JoshuaFordProg5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Joshua\Documents\Visual Studio 2013\Projects\JoshuaFordProgram5\Debug\JoshuaFordProg5.lib" /MACHINE:X86 Debug\Anchor.obj
+         Debug\Button.obj
+         Debug\Header.obj
+         Debug\IElement.obj
+         Debug\Main.obj
+         Debug\Paragraph.obj
+         Debug\Textbox.obj
+         Debug\WebCreator.obj
+         JoshuaFordProgram5.vcxproj -> C:\Users\Joshua\Documents\Visual Studio 2013\Projects\JoshuaFordProgram5\Debug\JoshuaFordProg5.exe
+     1>Done Building Project "C:\Users\Joshua\Documents\Visual Studio 2013\Projects\JoshuaFordProgram5\JoshuaFordProgram5\JoshuaFordProgram5.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.63

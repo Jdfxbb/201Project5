@@ -1,0 +1,20 @@
+﻿Build started 4/4/2016 12:39:01 PM.
+     1>Project "C:\Users\User\documents\visual studio 2013\Projects\JoshuaFordProgram5\JoshuaFordProgram5\JoshuaFordProgram5.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Anchor.cpp Button.cpp Header.cpp IElement.cpp Main.cpp Paragraph.cpp Textbox.cpp WebCreator.cpp
+         WebCreator.cpp
+         Textbox.cpp
+         Paragraph.cpp
+         Main.cpp
+         IElement.cpp
+         Header.cpp
+         Button.cpp
+         Anchor.cpp
+         Generating Code...
+     1>c:\users\user\documents\visual studio 2013\projects\joshuafordprogram5\joshuafordprogram5\ielement.cpp(16): error C4716: 'operator<<' : must return a value
+     1>c:\users\user\documents\visual studio 2013\projects\joshuafordprogram5\joshuafordprogram5\ielement.cpp(21): error C4716: 'operator>>' : must return a value
+     1>Done Building Project "C:\Users\User\documents\visual studio 2013\Projects\JoshuaFordProgram5\JoshuaFordProgram5\JoshuaFordProgram5.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.86
